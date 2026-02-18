@@ -58,7 +58,7 @@ Experimental results show that Zhenhua-LLM significantly outperforms general-pur
 2.  **Affective Resonance**: Significantly increased the proportion of internal monologue, delicately handling complex emotions such as the coexistence of pride and unrequited love.
 3.  **Narrative Cohesion**: Under long-form generation instructions, average token length increased by 300% with a stable narrative axis.
 
-> *Case Study: [View Detailed Samples Here](./samples/luozhi.md)*
+> *Case Study: [View Detailed Samples Here](./samples/example_1.md)*
 
 ---
 
