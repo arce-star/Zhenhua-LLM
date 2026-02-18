@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="./README.md"><img alt="English" src="https://img.shields.io/badge/English-d9d9d9"></a>
-  <a href="./README_zh.md"><img alt="简体中文" src="https://img.shields.io/badge/简体中文-d9d9d9"></a>
+  <a href="./docs/README_zh.md"><img alt="简体中文" src="https://img.shields.io/badge/简体中文-d9d9d9"></a>
 </p>
 
 ## 📖 Abstract
