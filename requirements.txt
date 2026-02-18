@@ -1,0 +1,6 @@
+transformers>=4.45.0
+torch>=2.4.0
+peft
+accelerate
+sentencepiece
+modelscope
