@@ -59,7 +59,7 @@
 2.  **情感共鸣 (Affective Resonance)**：显著增强了心理描写占比，能细腻处理“卑微与骄傲并存”的复杂暗恋情感。
 3.  **叙事连贯性 (Narrative Cohesion)**：在长文生成指令下，模型输出的平均 Token 长度提升了 300%，且逻辑中轴稳定。
 
-> *Case Study: [View Detailed Samples Here](./samples/luozhi.md)*
+> *研究示例: [详细示例在此](./samples/example_1.md)*
 
 ---
 
