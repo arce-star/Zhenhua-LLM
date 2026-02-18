@@ -3,6 +3,8 @@
 > **Towards Stylistic Nuance: Fine-tuning Large Language Models for Literary Style Replication of August Changan**
 
 <p align="center">
+  <a href="https://huggingface.co/spaces/NQworker/Zhenhua-7B-Demo" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo%20Space-blue?style=flat" alt="HF Space Demo"></a>
   <!-- GitHub Stars -->
   <a href="https://github.com/arce-star/Zhenhua-LLM/stargazers" target="_black">
     <img src="https://img.shields.io/github/stars/arce-star/Zhenhua-LLM?style=flat" alt="GitHub Stars"></a>
